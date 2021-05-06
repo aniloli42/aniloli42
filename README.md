@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 - <a href="https://linkedin.com/in/aniloli42" target="blank">Linkedin</a> <br/>
-- <a href="https://instagram.com/aniloli42" target="blank">Instagram</a>
+- <a href="https://www.linkedin.com/in/aniloli/" target="blank">Instagram</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
