@@ -1,7 +1,7 @@
-<h1 align='center'> Hi there 👋, I'm Anil Oli </h1>
+<h1 align='center'>🙏 Namaste</h1>
 
 <p align='center'>
-  I live on Dang, Nepal
+  I'm Anil Oli. Frontend Web Developer as profession. I provide freelancer services in fiverr and upwork.
 </p>
 
 <p align='center'><a href="https://www.linkedin.com/in/aniloli/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
