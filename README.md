@@ -1,31 +1,45 @@
-<h1 align='center'>🙏 Namaste</h1>
+<h1 align="center">🙏 Namaste = () => `Anil Oli` 🙏</h1>
 
-<p align='center'>
-  I'm Anil Oli. Frontend Web Developer as profession. I provide freelancer services in fiverr and upwork.
-</p>
+Hello, I am from Nepal. I am a student of computer engineering in Crimson Technical College, Butwal, Nepal.
 
-<p align='center'><a href="https://www.linkedin.com/in/aniloli/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:aniloli42@gmail.com?subject=Hello" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+I am currently following the web development path as Frontend Web Developer.
 
-</p>
+When I started to learn javascript, I love work on it so i follow its library and framework for further skills.
+## Skills
+### FrontEnd Skills
+* HTML
+* CSS
+* Bootstrap
+* Javascript
+* React Js (Currently, Learning...)
 
-<hr>
+### Backend Skills
+* Node Js (Currently, Learning...)
+* Express (Currently, Learning...)
 
-<h4> 🔭 I’m currently working with ...</h4>
+### Database Skills
+* MongoDB (Currently, Learning...)
+* MySQL
 
-<h5>Frontend Languages</h5>
-<p >
-  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
-</p>
+### Other Skills
+* Search Engine Optimization (SEO)
+* Adobe XD / Figma
+* Photoshop
+* Primere Pro
+* Blog Writting
 
-<hr>
+## My Blog Site
+[Tech About Need](https://www.techaboutneed.com/) is the website where we can get content related tech and reviews as well as CTEVT DCOM contents.
 
-<h4>🌱 I'm currently learning...</h4>
-<p >
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
-</p>
+I provide the all study materials which is generate or complied with the helps of teachers.
 
-<p align='right'>
-<h4>💬 My Blog Here:</h4>
-  <a href="https://www.techaboutneed.com/"><img src="https://img.shields.io/badge/Tech%20About%20Need-brightgreen" /></a>&nbsp;&nbsp;&nbsp;
-</p>
+Blog and Reviews are self generate content without anyone help and without plagiarism.
+
+## My Social Profile
+* [Linkedin](https://www.linkedin.com/in/aniloli)
+* [Stackoverflow](https://stackoverflow.com/users/16839906/anil-oli)
+* [Facebook](https://www.facebook.com/anil.oli.4321)
+* [Instagram](https://www.instagram.com/aniloli42)
+
+
+> Thanks for visiting my github profile. Hope do you like it.
