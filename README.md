@@ -5,28 +5,6 @@ Hello, I am from Nepal. I am a student of computer engineering in Crimson Techni
 I am currently following the web development path as Frontend Web Developer.
 
 When I started to learn javascript, I love work on it so i follow its library and framework for further skills.
-## Skills
-### FrontEnd Skills
-* HTML
-* CSS
-* Bootstrap
-* Javascript
-* React Js (Currently, Learning...)
-
-### Backend Skills
-* Node Js (Currently, Learning...)
-* Express (Currently, Learning...)
-
-### Database Skills
-* MongoDB (Currently, Learning...)
-* MySQL
-
-### Other Skills
-* Search Engine Optimization (SEO)
-* Adobe XD / Figma
-* Photoshop
-* Primere Pro
-* Blog Writting
 
 ## My Blog Site
 [Tech About Need](https://www.techaboutneed.com/) is the website where we can get content related tech and reviews as well as CTEVT DCOM contents.
