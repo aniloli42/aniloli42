@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with Designing
 - 💬 Ask me about Programming, SEO, Automation
 - 📫 How to reach me: connect@aniloli42.me
-- ⚡ Fun fact: I love to sing while alone for myself. Never ask me to sing.
+- ⚡ Fun fact: I love to sing while alone for self. Never ask me to sing.
 
 
