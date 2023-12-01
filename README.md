@@ -54,3 +54,7 @@
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=aniloli42&limit=5&theme=discord&combine_all_yearly_contributions=true)
+
+## 🏅 Badges
+
+[![An image of @aniloli42's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aniloli42)](https://holopin.io/@aniloli42)
