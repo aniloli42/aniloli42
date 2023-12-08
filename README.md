@@ -50,11 +50,11 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniloli42&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniloli42&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=aniloli42&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=aniloli42&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true)
 
 ## 🏅 Badges
 
