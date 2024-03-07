@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Anil 👋</h1>
 <h3 align="center">Develop System, As You Need</h2>
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,graphql,prisma,mongodb,mysql,postgres,redis,docker,git"/>
-<img src="https://skillicons.dev/icons?i=bash,linux,yarn,pnpm"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,graphql,prisma,mongodb,mysql,postgres,docker,git,redis"/>
+<img src="https://skillicons.dev/icons?i=bash,linux,yarn,pnpm,vercel"/>
+</p>
 
 - 🌱 I’m currently learning Nest Js Core Concepts
 - 💬 Ask me about Programming, SEO, Automation
@@ -11,13 +13,10 @@
 ## 🌐 Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/aniloli"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a>
 
-<a href="https://stackoverflow.com/users/16839906"> <img src="https://skillicons.dev/icons?i=stackoverflow"/> </a>
-
-<a href="https://twitter.com/aniloli42"> <img src="https://skillicons.dev/icons?i=twitter"/> </a>
-
-<a href="https://facebook.com/aniloli.me"> <img src="https://skillicons.dev/icons?i=facebook"/> </a>
+[![stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/16839906)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/aniloli)
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/aniloli42)
 
 </p>
 
