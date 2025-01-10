@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Nest Js Core Concepts
 - 💬 Ask me about Programming, SEO, Automation
-- 📫 How to reach me: connect@aniloli42.me
+- 📫 How to reach me: aniloli42@gmail.com
 
 ## 🌐 Connect with me:
 
