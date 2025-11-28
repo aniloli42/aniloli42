@@ -1,35 +1,28 @@
-<h1 align="center">Hi, I'm Anil 👋</h1>
-<h3 align="center">Develop System, As You Need</h2>
+# 👋 Hi, I'm Anil Oli
+## Learning Software Engineering like a Chef 🧑‍🍳
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,graphql,prisma,mongodb,mysql,postgres,docker,git,redis"/>
-<img src="https://skillicons.dev/icons?i=bash,linux,yarn,pnpm,vercel"/>
-</p>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,graphql,prisma,mongodb,mysql,postgres,docker,git,redis,bash,linux,pnpm,vercel,java,cpp"/>
 
-- 🌱 I’m currently learning Nest Js Core Concepts
-- 💬 Ask me about Programming, SEO, Automation
-- 📫 How to reach me: [anil.oli@aniloli42.me](mailto:anil.oli@aniloli42.me)
+> Building automation tools, APIs, and scalable systems.
 
-## 🌐 Connect with me:
+## 📝 About Me
+I'm a Computer Science student at Texas State University who enjoys creating backend systems, optimizing workflows, and learning how real software teams build projects. I like writing clean code, documenting projects properly, and turning ideas into working tools.
 
-<p align="left">
+## 🚀 What I'm Working On
+- Improving my backend architecture and API development skills
+- Building automation-driven side projects
+- Learning deployment tools & Docker workflows
+- Strengthening TypeScript + Node.js mastery
+- Preparing for Software Engineering Intern roles
 
-[![stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/16839906)
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/aniloli)
-[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/aniloli42)
+## 🔗 Connect
+- Portfolio: [aniloli42.me](https://aniloli42.me)
+- Linkedin: [aniloli](https://linkedin.com/in/aniloli)
+- Email: [anil.oli@aniloli42.me](mailto:anil.oli@aniloli42.me)
 
-</p>
+## 🛠 Github Stats
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniloli42&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 📊 GitHub Stats:
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniloli42&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aniloli42&show_icons=true&locale=en)
 
-### 🔝 Top Contributed Repo
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=aniloli42&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true)
-
-## 🏅 Badges
-
-[![An image of @aniloli42's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aniloli42)](https://holopin.io/@aniloli42)
